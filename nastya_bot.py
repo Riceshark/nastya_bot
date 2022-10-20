@@ -136,7 +136,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-def calc(a: int, b: int) -> int:
-    return a + b
